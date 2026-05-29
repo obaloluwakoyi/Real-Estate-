@@ -2,7 +2,7 @@
 
 An institutional-grade, dark-themed quantitative financial workspace built using a modern decoupled 5-file architecture. The system combines classical data telemetry, a hybrid quantum state variational optimizer (**Qiskit SamplingVQE**), advanced stochastic modeling (**Geometric Brownian Motion** and **Merton's Jump-Diffusion Model**), an institutional risk/compliance scanner, and cross-provider LLM cognitive architectures to generate actionable rebalancing strategy narratives and downloadable PDF executive reports.
 
----LIVE DEMO :- https://qutum1.streamlit.app/
+---LIVE DEMO :- [https://qutum1.streamlit.app/](https://multi-asset-quantum-ai-portfolio-terminal-b9qp8svq4s6sh2pasax7.streamlit.app/)
 
 
 ## 🏗️ System Architecture & File Layout
