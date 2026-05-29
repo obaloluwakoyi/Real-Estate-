@@ -1,0 +1,11 @@
+streamlit
+plotly
+pandas
+numpy
+requests
+fpdf2
+yfinance
+qiskit
+qiskit-finance
+qiskit-algorithms
+qiskit-optimization
